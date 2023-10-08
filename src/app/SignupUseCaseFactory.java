@@ -1,4 +1,4 @@
-package app;
+package entity;
 
 import data_access.FileUserDataAccessObject;
 import data_access.UserSignupDataAccessInterface;
